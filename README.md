@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 💬 Ask me about **Python, HTML5, NativeCSS, JavaScript, React, NextJs, ThreeJS, SQLWorkbench, PHP, API**
+- 💬 Ask me about **Python, HTML5, NativeCSS, JavaScript, React, NextJs, ThreeJS, SQLWorkbench,Mysql, PHP,**
 
 - 📫 How to reach me **rencydelossantos020@gmail.com**
 
